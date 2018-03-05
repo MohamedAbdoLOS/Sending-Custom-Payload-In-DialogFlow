@@ -1,4 +1,4 @@
-# Sending-Custom-Payload-In-DialogFlow
+# Sending Custom Payload In DialogFlow
 Sending a Custom Payload written in JSON format in a JS file, i faced this when i was using  I’m using the Firebase inline editor/Firebase CTL. After this you will be able to send RichMessages and more right from the Index.js file.
 
 Just follow this small tutorial to get it to work:
