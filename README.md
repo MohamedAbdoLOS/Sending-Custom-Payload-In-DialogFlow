@@ -3,7 +3,7 @@ Sending a Custom Payload written in JSON format in a JS file, i faced this when 
 
 Just follow this small tutorial to get it to work:
 
-#1- In your ```Index.js``` search for ``` ‘default’: () => {” after this down bellow “responseToUser ```, just a little bellow uncomment this line ```“data: richResponsesV1,”```... now you are able to start sending richmessages for both ```Slack``` and ```FB Messenger```
+#1- In your ```Index.js``` search for ``` ‘default’: () => {``` after this down bellow you will find ```“responseToUser ```, just a little bellow uncomment this line ```“data: richResponsesV1,”```... now you are able to start sending richmessages for both ```Slack``` and ```FB Messenger```
 
 #2- Now back to your action handler and add this example for ```websearch``` i made, i will explain things in the code:
 ```java
